@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Database
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
